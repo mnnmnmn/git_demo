@@ -6,5 +6,6 @@ package com.yp;
 public class Main {
     public static void main(String[] args) {
         System.out.println("HelloGIT");
+        System.out.println("fuck");
     }
 }
